@@ -1,6 +1,6 @@
 {
   "name": "com.yeager.essentialcore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Core Package",
   "description": "This is package for initializing unity project",
   "unity": "2019.1",
