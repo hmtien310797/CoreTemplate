@@ -6,7 +6,7 @@
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+    "com.cysharp.unitask": "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git#2.5.0"
  },
  "keywords": [
     "keyword1",
