@@ -1,0 +1,16 @@
+{
+    "name": "BaseCore.Sound",
+    "rootNamespace": "BaseCore.Sound",
+    "references": [
+        "GUID:1598326b24396354b97474777bd5145f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
