@@ -1,9 +1,7 @@
 {
     "name": "BaseCore.Sound",
     "rootNamespace": "BaseCore.Sound",
-    "references": [
-        "GUID:1598326b24396354b97474777bd5145f"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -1,0 +1,16 @@
+{
+    "name": "BaseCore.Setting",
+    "rootNamespace": "BaseCore.Setting",
+    "references": [
+        "GUID:b47bde3b30bea0d4f95165c0e645f9b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

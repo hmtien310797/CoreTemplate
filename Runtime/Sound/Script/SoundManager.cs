@@ -29,7 +29,7 @@ namespace BaseCore.Sound
         public bool loop = false;
     }
 
-    public class SoundManager : Singleton<SoundManager>
+    public class SoundManager : MonoBehaviour
     {
         [Header("Library")] public List<SoundDef> sfxLibrary = new();
         public List<SoundDef> bgmLibrary = new();
@@ -56,9 +56,8 @@ namespace BaseCore.Sound
         public float SfxVolume { get; private set; } = 1f;
         public bool Muted { get; private set; } = false;
 
-        protected override void Awake()
+        private void Awake()
         {
-            base.Awake();
             BuildMaps();
             SetupSources();
             LoadSettings();
